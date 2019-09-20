@@ -1,0 +1,3 @@
+uname,epoch,acc,loss
+kd_MNLI_nlayer.6_lr.2e-05_T.20.0_alpha.0.5_beta.0.0_bs.32,2.0,0.8098828323993887,0.6624107928976949
+kd_MNLI-mm_nlayer.6_lr.2e-05_T.20.0_alpha.0.5_beta.0.0_bs.32,2.0,0.8098828323993887,0.6624107928976949

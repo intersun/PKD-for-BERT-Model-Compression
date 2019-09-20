@@ -1,0 +1,9 @@
+uname,epoch,acc,loss
+kd.cls.True_MRPC_nlayer.6_lr.2e-05_T.20.0_alpha.0.7_beta.8.0_bs.32-run-2,4.0,0.8455882352941176,0.6674053485576923
+kd.cls.True_SST-2_nlayer.6_lr.5e-05_T.10.0_alpha.0.5_beta.100.0_bs.32-run-1,4.0,0.9105504587155964,0.44427272251674105
+kd.cls.True_RTE_nlayer.6_lr.1e-05_T.10.0_alpha.0.7_beta.500.0_bs.32-run-1,4.0,0.6823104693140795,1.07275390625
+kd.cls.False_MNLI_nlayer.6_lr.5e-05_T.10.0_alpha.0.5_beta.100.0_bs.32-run-2,4.0,0.8231278655119715,0.9475634447526464
+kd.cls.False_QNLI_nlayer.6_lr.5e-05_T.20.0_alpha.0.5_beta.100.0_bs.32-run-1,4.0,0.8965769723595094,0.3573996783697117
+kd.cls.False_QQP_nlayer.6_lr.5e-05_T.20.0_alpha.0.7_beta.100.0_bs.32-run-1,4.0,0.9082859262923572,0.6082037955145293
+kd.cls.False_MNLI-mm_nlayer.6_lr.5e-05_T.10.0_alpha.0.5_beta.100.0_bs.32-run-2,4.0,0.8231278655119715,0.9475634447526464
+kd.cls.False_race-merge_nlayer.6_lr.5e-05_T.5.0_alpha.0.5_beta.100.0_bs.32-run-2,4.0,0.6122365459382034,1.1340154683343564

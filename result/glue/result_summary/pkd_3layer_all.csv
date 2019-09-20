@@ -1,0 +1,9 @@
+uname,epoch,acc,loss
+kd.cls.True_MRPC_nlayer.3_lr.2e-05_T.5.0_alpha.0.7_beta.10.0_bs.32-run-1,2.0,0.7622549019607843,0.7906963641826923
+kd.cls.True_SST-2_nlayer.3_lr.5e-05_T.20.0_alpha.0.2_beta.1.0_bs.32-run-1,4.0,0.8807339449541285,0.6145150320870536
+kd.cls.False_RTE_nlayer.3_lr.5e-05_T.20.0_alpha.0.2_beta.100.0_bs.32-run-1,2.0,0.6245487364620939,0.7349175347222222
+kd.cls.False_MNLI_nlayer.3_lr.5e-05_T.5.0_alpha.0.7_beta.1000.0_bs.32-run-1,4.0,0.7764645950076413,0.8798207832858306
+kd.cls.False_QNLI_nlayer.3_lr.5e-05_T.20.0_alpha.0.7_beta.100.0_bs.32-run-1,3.0,0.8563060589419733,0.5198926423725329
+kd.cls.False_QQP_nlayer.3_lr.5e-05_T.20.0_alpha.0.7_beta.100.0_bs.32-run-2,4.0,0.8949295077912441,0.6897126475844202
+kd.cls.False_MNLI-mm_nlayer.3_lr.5e-05_T.5.0_alpha.0.7_beta.1000.0_bs.32-run-1,4.0,0.7764645950076413,0.8798207832858306
+kd.cls.False_race-merge_nlayer.3_lr.5e-05_T.10.0_alpha.0.7_beta.1000.0_bs.32-run-1,4.0,0.5129936566400655,1.272572242045222
